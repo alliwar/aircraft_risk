@@ -2,7 +2,7 @@
 
  <font size="+1">***How StellarSkies Should Enter the Domestic Flight Market*** </font>
 
-by  Allison Ward, Anthony Mansion, and Rick Lataille for the Flatiron School
+by  Allison Ward, Anthony Mansion, and Rick Lataille for Flatiron School
 
 ![Airplane](https://github.com/alliwar/aircraft_risk/blob/main/Aviation%20Images/unsplash_airplane.jpg?raw=true)
 
@@ -21,7 +21,7 @@ Therefore, the scope of our analysis is limited.
 
 <font size="+1">**Analysis**</font>
 
-Our analysis uses a metric of safety as the most important factor in determining which private and commercial jets to purchase. We utilized a variable "Major Injuries", calculated as a sum of total serious injuries and fatalities per event, as our guide.
+Our analysis uses a metric of safety as the most important factor in determining which private and commercial jets to purchase. We utilized a variable "Major Injuries", calculated as a sum of total serious injuries and fatalities per event, as our guide. We filtered out data from 2013 to the present, focusing in particular on major aircraft manufacturers.
 
 
 The first part of our analysis identifies the type of plane StellarSkies should consider. Our analysis shows that single-engine and reciprocal-engine planes are the most dangerous.
@@ -31,16 +31,19 @@ Single engine airplanes accounted for 75% of major injuries between aircrafts in
 
 ![Engine Types](https://github.com/alliwar/aircraft_risk/blob/main/Aviation%20Images/Screen%20Shot%202024-03-07%20at%205.19.33%20PM.png?raw=true)
 
-Reciprocating engine planes accounted for 77% of major injuries between those listed as turbo fan, turbo propeller, turbo jet, turbo shaft, and electric engine planes.
+Reciprocating engine planes accounted for 77% of major injuries between those listed as turbo fan, turbo propeller, turbo jet, turbo shaft, and electric engine planes. 
+
+According to the FAA, "Reciprocating engines and turboprop engines
+work in combination with a propeller to produce thrust."
 
 ![Engine Number](https://github.com/alliwar/aircraft_risk/blob/main/Aviation%20Images/Screen%20Shot%202024-03-07%20at%205.19.48%20PM.png?raw=true)
 
-The second part in our analysis was an analysis of individual manufacturers.
+The second part of our analysis focused on individual manufacturers.
 Between total major injuries of Boeing, Airbus, and Embraer airlines, Boeing accounted for 85% of major injuries.
 
 ![Commercial](https://github.com/alliwar/aircraft_risk/blob/main/Aviation%20Images/Screen%20Shot%202024-03-07%20at%205.23.52%20PM.png?raw=true)
 
-For smaller business jets, Textron accounted for 96% of major injuries, Bombardier accounted for 3% of major injuries between Textron, Bombardier, Gulfstream and Dassault airlines.
+For smaller business jets, Textron accounted for 96% and Bombardier accounted for 3% of major injuries between Textron, Bombardier, Gulfstream and Dassault airlines.
 
 ![Private](https://github.com/alliwar/aircraft_risk/blob/main/Aviation%20Images/Screen%20Shot%202024-03-07%20at%205.25.15%20PM.png?raw=true)
 
