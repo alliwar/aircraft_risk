@@ -6,6 +6,11 @@ by  Allison Ward, Anthony Mansion, and Rick Lataille for Flatiron School
 
 ![Airplane](https://github.com/alliwar/aircraft_risk/blob/main/Aviation%20Images/unsplash_airplane.jpg?raw=true)
 
+<font size="+1">**Repository Contents**</font>
+
+Within our repository, you will find our final Jupyter Notebook titled "Final.ipynb". You will also find a pdf version of our Powerpoint presentation labeled "Aircraft_Recommendations.pdf". At the bottom of this README you will find a link to our interactive Tableau dashboard of our analysis.
+
+
 <font size="+1">**Business Understanding**</font>
 
 StellarSkies is an established US-based company seeking to enter the domestic flight industry utilizing both commercial and private aircraft. They have a large budget and are willing to allocate their funds to the planes that will make the best investments long-term. They requested that we identify planes that will allow them to travel across the United States with the lowest risk.
@@ -84,7 +89,7 @@ Private Flights:
 2. Gulfstream G280: A smaller and lighter option (Est .Cost: $25mm)
 
 
-<font size="+1">**An Interactive Dashboard:**</font>
+<font size="+1">**Interactive Dashboard:**</font>
 
  https://public.tableau.com/views/AircraftSafetyAnalysis_17097661480200/FinalDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
